@@ -1,0 +1,8 @@
+torch
+transformers
+tokenizers
+fastapi
+uvicorn
+python-multipart
+httpx
+pytest
